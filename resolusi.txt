@@ -5,3 +5,5 @@ Resolusi untuk tahub 2024:
 - Create a Reels IG and Be Mentor
 - Learn something new
 - Learn English for Profesional
+- Belajar Framework CSS dan Javascripts
+- Belajar mastering Python
